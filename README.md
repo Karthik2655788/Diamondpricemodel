@@ -2,7 +2,6 @@
 
 # This is our Website link:
 https://diamond-9f69.onrender.com
-currently working only in mobile devices
 
 ---
 
